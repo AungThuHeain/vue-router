@@ -1,0 +1,44 @@
+{
+    "movies":[
+        {
+            "id":1,
+            "title":"one",
+            "year":"2019",
+            "runtime":"90",
+            "poster":"https://myanmarreader.s3.ap-southeast-1.amazonaws.com/images/VRwCR55mA6EQ2kJBQrZbJdzyG0oHFBu2x70lMJ6I.png"
+
+        },
+        {
+            "id":2,
+            "title":"two",
+            "year":"2019",
+            "runtime":"90",
+            "poster":"https://myanmarreader.s3.ap-southeast-1.amazonaws.com/images/VRwCR55mA6EQ2kJBQrZbJdzyG0oHFBu2x70lMJ6I.png"
+
+        },
+        {
+            "id":3,
+            "title":"three",
+            "year":"2019",
+            "runtime":"90",
+            "poster":"https://myanmarreader.s3.ap-southeast-1.amazonaws.com/images/VRwCR55mA6EQ2kJBQrZbJdzyG0oHFBu2x70lMJ6I.png"
+
+        },
+        {
+            "id":4,
+            "title":"four",
+            "year":"2019",
+            "runtime":"90",
+            "poster":"https://myanmarreader.s3.ap-southeast-1.amazonaws.com/images/VRwCR55mA6EQ2kJBQrZbJdzyG0oHFBu2x70lMJ6I.png"
+
+        },
+        {
+            "id":5,
+            "title":"five",
+            "year":"2019",
+            "runtime":"90",
+            "poster":"https://myanmarreader.s3.ap-southeast-1.amazonaws.com/images/VRwCR55mA6EQ2kJBQrZbJdzyG0oHFBu2x70lMJ6I.png"
+
+        }
+    ]
+}
